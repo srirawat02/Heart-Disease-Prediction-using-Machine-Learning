@@ -12,6 +12,12 @@ The goal of the project is to predict whether a person is at risk of heart disea
 
 The final model is connected to a simple Streamlit application where users can enter their details and get a prediction.
 
+<img width="1567" height="865" alt="Screenshot 2026-09-22 233533" src="https://github.com/user-attachments/assets/ffebacb0-320a-45ac-b3a2-0e21a6ba1abc" />
+
+<img width="1475" height="860" alt="Screenshot 2026-09-22 233557" src="https://github.com/user-attachments/assets/c9530058-6d33-41a7-bc16-343ce09d80b8" />
+
+
+
 ## Features
 
 - Exploratory Data Analysis (EDA)
